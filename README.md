@@ -114,7 +114,7 @@ Prerequisites : `npm, git`
 
 Clone the repository 
 ```Bash
-git clone https://github.com/bsandipan99/supplyChain_blockchain.git && cd supplyChain_blockchain
+[git clone https://github.com/aathreya-sharma/S-C-M
 ```
 Install dependencies
 ```Bash
