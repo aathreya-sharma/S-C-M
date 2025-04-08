@@ -27,7 +27,7 @@ Prerequisites : `npm, git`
 
 Clone the repository 
 ```Bash
-[git clone https://github.com/aathreya-sharma/S-C-M
+git clone https://github.com/aathreya-sharma/S-C-M
 ```
 Install dependencies
 ```Bash
